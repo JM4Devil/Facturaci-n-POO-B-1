@@ -63,7 +63,7 @@ class ProductoElectronico(Producto):
         return f"{self.nombre} (Electrónico) - ${self.precio} - Cantidad: {self.cantidad} - Garantía: {self.garantia_meses} meses"
 
 # Gestor de productos
-
+##hola
 class GestorProductos:
     def __init__(self):
         self.productos: list[ProductoBase] = []
