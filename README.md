@@ -251,3 +251,63 @@ To https://github.com/JM4Devil/Facturaci-n-POO-B-1.git
    63ed2bb..3f43d9e  main -> main
 
 C:\Users\UNEMI\Downloads\taller>
+
+
+
+Crear nuevo clon Microsoft Windows [Versión 10.0.26100.3476]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\UNEMI>cd
+C:\Users\UNEMI
+
+C:\Users\UNEMI>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 0ED5-3F3F
+
+ Directorio de C:\Users\UNEMI
+
+21/04/2025  14:15    <DIR>          .
+03/04/2025  08:24    <DIR>          ..
+28/03/2025  15:48    <DIR>          .arduinoIDE
+21/04/2025  14:15               133 .gitconfig
+21/04/2025  13:48                20 .lesshst
+28/03/2025  15:48    <DIR>          .nbi
+28/03/2025  15:56    <DIR>          .vscode
+03/04/2025  08:27    <DIR>          Contacts
+03/04/2025  08:27    <DIR>          Desktop
+03/04/2025  08:27    <DIR>          Documents
+21/04/2025  13:16    <DIR>          Downloads
+03/04/2025  08:27    <DIR>          Favorites
+03/04/2025  08:27    <DIR>          Links
+03/04/2025  08:27    <DIR>          Music
+26/02/2025  02:53    <DIR>          OneDrive
+21/04/2025  13:42    <DIR>          Pictures
+28/03/2025  15:51    <DIR>          pseint
+03/04/2025  08:27    <DIR>          Saved Games
+03/04/2025  08:27    <DIR>          Searches
+03/04/2025  08:27    <DIR>          Videos
+               2 archivos            153 bytes
+              18 dirs  432.835.866.624 bytes libres
+
+C:\Users\UNEMI>git clone https://github.com/JM4Devil/Facturaci-n-POO-B-1.git
+Cloning into 'Facturaci-n-POO-B-1'...
+remote: Enumerating objects: 9, done.
+remote: Counting objects: 100% (9/9), done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 9 (delta 1), reused 6 (delta 1), pack-reused 0 (from 0)
+Receiving objects: 100% (9/9), 5.11 KiB | 2.55 MiB/s, done.
+Resolving deltas: 100% (1/1), done.
+
+C:\Users\UNEMI>cd C:\Users\UNEMI\Downloads\like
+
+C:\Users\UNEMI\Downloads\like> git clone https://github.com/JM4Devil/Facturaci-n-POO-B-1.git
+Cloning into 'Facturaci-n-POO-B-1'...
+remote: Enumerating objects: 9, done.
+remote: Counting objects: 100% (9/9), done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 9 (delta 1), reused 6 (delta 1), pack-reused 0 (from 0)
+Receiving objects: 100% (9/9), 5.11 KiB | 747.00 KiB/s, done.
+Resolving deltas: 100% (1/1), done.
+
+C:\Users\UNEMI\Downloads\like>
+
